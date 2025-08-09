@@ -56,9 +56,9 @@ internalBoxWidthXMm = 48.5; // .1
 // The length(Y) of the inside box wall in MM
 internalboxLengthYMm = 32; // .1
 // The internal height on the box top
-internalBoxTopHeightZMm = 8; // .1
+internalBoxTopHeightZMm = 8.5; // .1
 // The internal height on the box bottom
-internalboxBottomHeightZMm = 8; // .1
+internalboxBottomHeightZMm = 8.5; // .1
 
 // The width on the box wall and floor.  (NOTE: If you want square inside corners, the boxWallWidthMm must be > the  boxChamferRadiusMm.)
 boxWallWidthMm = 1.5; // [1:0.1:10]
@@ -162,7 +162,7 @@ latchScrewLargeRadiusMm = 1.7; // .05
 latchScrewSmallRadiusMm = 1.45; // .05
 
 // Controls the length of the tab that allows you to open the latch. 1 is pretty short, 2 is pretty long. It's easy to make this too short or too long... Somewhere between 1 and 2 seems like a good value.
-latchOpenerLengthMultiplier = 1.4; //[.5:.1:3]
+latchOpenerLengthMultiplier = 1.1; //[.5:.1:3]
 // This is the angle of the latch opener tab. The valid values are between 0 and 45 seem to be okay values.
 latchOpenerAngle = 10; //[0:1:45]
 
