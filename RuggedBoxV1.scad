@@ -162,7 +162,7 @@ latchScrewLargeRadiusMm = 1.7; // .05
 latchScrewSmallRadiusMm = 1.45; // .05
 
 // Controls the length of the tab that allows you to open the latch. 1 is pretty short, 2 is pretty long. It's easy to make this too short or too long... Somewhere between 1 and 2 seems like a good value.
-latchOpenerLengthMultiplier = 1.1; //[.5:.1:3]
+latchOpenerLengthMultiplier = 1.4; //[.5:.1:3]
 // This is the angle of the latch opener tab. The valid values are between 0 and 45 seem to be okay values.
 latchOpenerAngle = 10; //[0:1:45]
 
